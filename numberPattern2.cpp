@@ -10,6 +10,8 @@ int main()
         }
         int count = 1;
         for(j=n-i;j<n;j++){
+            //j=1;j<i;j++
+            //cout<<j<<" ";  another way
             cout<<count<<" ";
             count++;
         }

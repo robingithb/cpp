@@ -1,0 +1,1 @@
+{"name":"Local: selectionSort","url":"/home/robin/cpp/selectionSort.cpp","tests":[{"id":1707223902367,"input":"6\n10 1 5 1 0 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/robin/cpp/selectionSort.cpp","group":"local","local":true}
