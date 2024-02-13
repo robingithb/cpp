@@ -1,0 +1,1 @@
+{"name":"Local: smallestPositive","url":"/home/robin/cpp/smallestPositive.cpp","tests":[{"id":1707681277660,"input":"5\n0 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/robin/cpp/smallestPositive.cpp","group":"local","local":true}

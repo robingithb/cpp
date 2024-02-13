@@ -1,0 +1,1 @@
+{"name":"Local: subarraysum","url":"/home/robin/cpp/subarraysum.cpp","tests":[{"id":1707408125445,"input":"5\n1 2 3 4 5\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/robin/cpp/subarraysum.cpp","group":"local","local":true}
