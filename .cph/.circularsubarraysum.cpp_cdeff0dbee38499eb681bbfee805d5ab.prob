@@ -1,0 +1,1 @@
+{"name":"Local: circularsubarraysum","url":"/home/robin/cpp/circularsubarraysum.cpp","tests":[{"id":1707943210969,"input":"7\n4 -4 6 -6 10 -11 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/robin/cpp/circularsubarraysum.cpp","group":"local","local":true}
